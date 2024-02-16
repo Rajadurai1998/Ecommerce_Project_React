@@ -1,0 +1,18 @@
+
+.card {
+    margin-bottom: 20px;
+  }
+  
+  .card-title {
+    color: green; 
+  }
+  
+  .card-text {
+    color: #333; 
+  }
+  
+  .card-footer {
+    background-color: green; 
+    color: white; 
+  }
+  
